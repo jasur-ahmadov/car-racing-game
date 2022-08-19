@@ -1,0 +1,19 @@
+C:\Users\Cesur\source\repos\Example\bin\Debug\Example.exe.config
+C:\Users\Cesur\source\repos\Example\bin\Debug\Example.exe
+C:\Users\Cesur\source\repos\Example\bin\Debug\Example.pdb
+C:\Users\Cesur\source\repos\Example\obj\Debug\Example.csprojAssemblyReference.cache
+C:\Users\Cesur\source\repos\Example\obj\Debug\Example.Properties.Resources.resources
+C:\Users\Cesur\source\repos\Example\obj\Debug\Example.csproj.GenerateResource.cache
+C:\Users\Cesur\source\repos\Example\obj\Debug\Example.exe
+C:\Users\Cesur\source\repos\Example\obj\Debug\Example.pdb
+C:\Users\Cesur\source\repos\Example\obj\Debug\Example.car.resources
+C:\Users\Cesur\source\repos\Example\obj\Debug\Example.car.az.resources
+C:\Users\Cesur\source\repos\Example\bin\Debug\az\Example.resources.dll
+C:\Users\Cesur\source\repos\Example\obj\Debug\az\Example.resources.dll
+C:\Users\Cesur\Desktop\C# language - 96 bal\Programs\Car Racing Game\obj\Debug\Example.csprojAssemblyReference.cache
+C:\Users\Cesur\Desktop\C# language - 96 bal\Programs\Car Racing Game\obj\Debug\Example.Form1.resources
+C:\Users\Cesur\Desktop\C# language - 96 bal\Programs\Car Racing Game\obj\Debug\Example.Properties.Resources.resources
+C:\Users\Cesur\Desktop\C# language - 96 bal\Programs\Car Racing Game\obj\Debug\Example.Form1.az.resources
+C:\Users\Cesur\Desktop\C# language - 96 bal\Programs\Car Racing Game\obj\Debug\Example.csproj.GenerateResource.cache
+C:\Users\Cesur\Desktop\C# language - 96 bal\Programs\Car Racing Game\obj\Debug\Example.exe
+C:\Users\Cesur\Desktop\C# language - 96 bal\Programs\Car Racing Game\obj\Debug\Example.pdb
